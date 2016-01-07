@@ -1,0 +1,77 @@
+{
+	"File": {
+		"label":"文件"
+	},
+	"OpenSav": {
+		"label":"打开存档",
+		"comment":"打开存档文件"
+	},
+	"SaveSav": {
+		"label":"保存存档",
+		"comment":"保存存档文件"
+	},
+	"SaveSavAS": {
+		"label":"存档另存为",
+		"comment":"另存存档文件为..."
+	},
+	"ListProcess":{
+		"label":"进程列表",
+		"comment":"显示进程列表"
+	},
+	"ConnectToServ":{
+		"label":"连接",
+		"comment":"连接CFW"
+	},
+	"Exit":{
+		"label":"退出",
+		"comment":"退出程序"
+	},
+	"UpdateRomDB": {
+		"label":"更新RomDB",
+		"comment":"更新ROM数据库"
+	},
+	"NewSearch":{
+		"label":"新搜索",
+		"comment":"开始新搜索"
+	},
+	"AddAddr":{
+		"label":"添加地址",
+		"comment":"添加到地址列表"
+	},
+	"SaveSettings":{
+		"label":"保存配置",
+		"comment":"保存配置"
+	},
+	"DisconnectToServ":{
+		"label":"断开连接",
+		"comment":"断开与CFW连接"
+	},
+	"SaveData":{
+		"label":"保存数据",
+		"comment":"保存修改的数据"
+	},
+	"SearchData":{
+		"label":"搜索",
+		"comment":"搜索数据"
+	},
+	"UpdateData":{
+		"label":"刷新数据",
+		"comment":"刷新内存数据"
+	},
+	"UpdateMemData":{
+		"label":"刷新数据",
+		"comment":"刷新内存数据"
+	},
+	"AddMemAddr": {
+		"label": "添加地址",
+		"comment":"添加内存地址到列表"
+	},
+	"SaveAddrList": {
+		"label": "保存列表",
+		"comment":"保存地址列表"
+	},
+	"LoadAddrList": {
+		"label":"加载列表",
+		"comment":"加载地址列表"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"savFileDir":"D:\\Games\\3DS\\MH4G\\mhefqs\\examples\\n3ds",
+	"servPort":{
+		"comment":"3DS端口号,默认为8000",
+		"label":"端口",
+		"type":"int",
+		"value":"8000"
+	},
+	"servIP":{
+		"comment":"等待连接的3DS的IP地址",
+		"label":"3DS IP",
+		"value":"127.0.0.1"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"00000":{
+	 	"size": 4,
+	 	"info": "Unknown"
+	 },
+	"00004": {
+	 	"size":4,
+	 	"info": "Unknown"
+	 },
+	"00008": {
+	 	"size":4,
+	 	"info": "Offset to unknown"
+	 },
+	"0000C": {
+		"size":4,
+		"info": "Offset to DLC"
+	},
+	"00010": {
+		"size":4,
+		"info":	"Offset to character1"
+	},
+	"00014": {
+		"size":4,
+		 "info":"Offset to character2"
+	},
+	"00018": {
+		"size":4,
+		"info": "Offset to character3"
+	}
+}

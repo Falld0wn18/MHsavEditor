@@ -1,0 +1,29 @@
+{
+	"File": {
+		"label":"文件"
+	},
+	"OpenSav": {
+		"label":"打开存档",
+		"comment":"打开存档文件"
+	},
+	"SaveSav": {
+		"label":"保存存档",
+		"comment":"保存存档文件"
+	},
+	"SaveSavAS": {
+		"label":"存档另存为",
+		"comment":"另存存档文件为..."
+	},
+	"CheatAllItem":{
+		"label":"全道具",
+		"comment":"道具箱全道具"
+	},
+	"Exit":{
+		"label":"退出",
+		"comment":"退出程序"
+	},
+	"SaveSettings":{
+		"label":"保存配置",
+		"comment":"保存配置"
+	}
+}

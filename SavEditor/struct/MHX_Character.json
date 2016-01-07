@@ -1,0 +1,387 @@
+{
+	"00000":{
+		"size": 32,
+		"info": "Name",
+		"type": "string"
+	},
+	"00020":{
+	 	"size":4,
+	 	"info": "Play time"
+	},
+	"00024":{
+		"size":4,
+		"info": "Funds"
+	},
+	"00028":{
+		"size": 2,
+		"info": "Hunter rank"
+	},
+	"0002C":{
+		"size": 2,
+		"info": "Hunter art1"
+	},
+	"0002E":{
+		"size": 2,
+		"info": "Hunter art2"
+	},
+	"00030":{
+		"size": 2,
+		"info": "Hunter art3"
+	},	
+	"0010C": {
+		"size":48,
+		"info": "Equipped weapon"
+	},
+	"0013C": {
+		"size":48,
+		"info": "Equipped head"
+	},
+	"0016C": {
+		"size":48,
+		"info": "Equipped chest"
+	},
+	"0019C": {
+		"size":48,
+		"info": "Equipped arms"
+	},
+	"001CC": {
+		"size":48,
+		"info": "Equipped waist"
+	},
+	"001FC": {
+		"size":48,
+		"info": "Equipped legs"
+	},
+	"0022C": {
+		"size":	48,
+		"info": "Equipped talisman"
+	},
+	"0025C": {
+		"size":	1,
+		"info": "Weapon type"
+	},
+	"0025D": {
+		"size":1,
+		"info": "Voice"
+	},
+	"0025E": {
+		"size":1,
+		"info": "Eye color"
+	},
+	"0025F": {
+		"size":1,
+		"info": "Clothing"
+	},
+	"00260": {
+		"size": 1,
+		"info": "Gender"
+	},
+	"00261": {
+		"size":1,
+		"info": "Hunting style"
+	},
+	"00262": {
+		"size":1,
+		"info": "Hairstyle"
+	},
+	"00263": {
+		"size": 1,
+		"info": "Face"
+	},
+	"00264": {
+		"size":	4,
+		"info": "Features"
+	},
+	"00268":{
+	 	"size":4,
+	 	"info": "Chest armor pigment"
+	},
+	"0026C":{
+	 	"size":4,
+	 	"info": "Arms armor pigment"
+	},
+	"00270": {
+	 	"size":4,
+	 	"info": "Waist armor pigment"
+	},
+	"00274":{
+	 	"size":4,
+	 	"info":"Legs armor pigment"
+	},
+	"00278": {
+		"size":4,
+		"info": "Head armor pigment"
+	},
+	"0027C": {
+		"size":4,
+		"info":	"Skin color"
+	},
+	"00280":{
+	 	"size":4,
+	 	"info": "Hair color"
+	},
+	"00284":{
+	 	"size":4,
+	 	"info": "Features color"
+	},
+	"00288": {
+		"size":4,
+		"info":"Clothing color"
+	},
+	"0028C": {
+		"size":4,
+		"info":"Unknown"
+	},
+	"00290": {
+		"size":3150,
+		"info":"Item box",
+		"comment": "Item box slots 1-1400"
+	},
+	"00EDE": {
+		"size":170,
+		"info": "Item set 1"
+	},
+	"01384": {
+		"size":170, 
+		"info": "Item set 8"
+	},
+	"0142E": {
+		"size": 72,
+		"info": "Item slots",
+		"comment": "Inventory item slots 1-32"
+	},
+	"01476": {
+		"size":4,
+		"info": "Unknown"
+	},
+	"0147A": {
+		"size": 4,
+		"info": "Funds"
+	},
+	"0147E": {
+		"size":4,
+		"info":"Unknown"
+	},
+	"01482": {
+		"size":4,
+		"info": "Academy points"
+	},
+	"01486": {
+		"size":12769,
+		"info": "Beruna points"
+	},
+	"0148A": {
+		"size":12769,
+		"info": "Kokoto points"
+	},
+	"0148E": {
+		"size":12769,
+		"info": "Pokke points"
+	},
+	"01492": {
+		"size":12769,
+		"info": "Yukumo points"
+	},	
+	"04667": {
+		"size":36,
+		"info": "Equipment box",		
+		"comment": "Equipment box slot 1"
+	},
+	"9F0FE": {
+		"size": 20,
+		"info": "Unknown",
+		"type": "string",
+		"encoding": "UnicodeName"
+	},
+	"9F48A": {
+		"size": 550,
+		"info": "Cat set"
+	},
+	"9F9D2": {
+		"size": 20,
+		"info": "UnicodeName1",
+		"type": "string"
+	},	
+	"9FA72": {
+		"size": 24,
+		"info": "UnicodeName2",
+		"type": "string"
+	},	
+	"9FB12": {
+		"size": 24,
+		"info": "UnicodeName3",
+		"type": "string"
+	},	
+	"9FBB2": {
+		"size": 24,
+		"info": "UnicodeName4",
+		"type": "string"
+	},	
+	"9FC52": {
+		"size": 24,
+		"info": "UnicodeName5",
+		"type": "string"
+	},
+	"10B32": {
+		"size":36,
+		"info": "Equipment box slot 1400"
+	},
+	"10B47": {
+		"size":36,		
+		"info": "Palico equipment box slot 1"
+	},
+	"16D93": {
+		"size":36,
+		"info": "Palico equipment box slot 700"
+	},
+	"16DB7": {
+		"size":136,
+		"info": "Equipment set 1"
+	},
+	"1826F": {
+		"size":136,
+		"info": "Equipment set 40"
+	},
+	"182F7": {
+		"size":48,
+		"info": "Palico equipment set 1"
+	},
+	"18747": {
+		"size":48,
+		"info": "Palico equipment set 24"
+	},
+	"193BA": {
+		"size":	1,
+		"info": "Weapon type1"
+	},
+	"193BB": {
+		"size":1,
+		"info": "Voice1"
+	},
+	"193BC": {
+		"size":1,
+		"info": "Eye color1"
+	},
+	"193BD": {
+		"size":1,
+		"info": "Clothing1"
+	},
+	"193BE": {
+		"size": 1,
+		"info": "Gender1"
+	},
+	"193BF": {
+		"size":1,
+		"info": "Hunting style1"
+	},
+	"193C0": {
+		"size":1,
+		"info": "Hairstyle1"
+	},
+	"193C1": {
+		"size": 1,
+		"info": "Face1"
+	},
+	"193C2": {
+		"size":	4,
+		"info": "Features1"
+	},	
+	"193ED": {
+		"size": 32,
+		"info": "Name1",
+		"type": "string"
+	},
+	"19426": {
+		"size":156,
+		"info": "Cat list"
+	},
+	"194C2": {
+		"size": 32,
+		"info": "Name2",
+		"type": "string"
+	},
+	"1FD47": {
+		"size": 32,
+		"info": "Feni name",
+		"type": "string"
+	},
+	"1FD67": {
+		"size": 32,
+		"info": "Kokoto poogie name",
+		"type": "string"
+	},
+	"1FD87": {
+		"size": 32,
+		"info": "Pokke poogie name",
+		"type": "string"
+	},
+	"1FDA7": {
+		"size": 32,
+		"info": "Yukumo poogie name",
+		"type": "string"
+	},
+	"1FE9E": {
+		"size": 5208,
+		"info": "Guild card 1"
+	},
+	"9DCA6": {
+		"size": 5208,
+		"info": "Guild card 100"
+	},
+	"9F0FE": {
+		"size": 5208,
+		"info": "Player guild card"
+	},
+	"9F116": {
+		"size":	1,
+		"info": "Weapon type2"
+	},
+	"9F117": {
+		"size":1,
+		"info": "Voice2"
+	},
+	"9F118": {
+		"size":1,
+		"info": "Eye color2"
+	},
+	"9F119": {
+		"size":1,
+		"info": "Clothing2"
+	},
+	"9F11A": {
+		"size": 1,
+		"info": "Gender2"
+	},
+	"9F11B": {
+		"size":1,
+		"info": "Hunting style2"
+	},
+	"9F11C": {
+		"size":1,
+		"info": "Hairstyle2"
+	},
+	"9F11D": {
+		"size": 1,
+		"info": "Face2"
+	},
+	"9F11E": {
+		"size":	4,
+		"info": "Features2"
+	},	
+	"EAD6E": {
+		"size": 60,
+		"info": "Shout out1"
+	},
+	"EB2D2": {
+		"size": 60,
+		"info": "Shout out24"
+	},
+	"EB30E": {
+		"size": 60,
+		"info": "Automatic shout out1"
+	},
+	"EB4EE": {
+		"size": 60,
+		"info": "Automatic shout out9"
+	}
+}
